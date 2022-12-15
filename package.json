@@ -1,4 +1,3 @@
-
 {
   "name": "hexlet",
   "version": "1.0.0",
@@ -17,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/asfiks/hexlet-js/issues"
   },
-  "homepage": "https://github.com/asfiks/hexlet-js#readme"
+  "homepage": "https://github.com/asfiks/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
