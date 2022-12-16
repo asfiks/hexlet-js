@@ -1,7 +1,7 @@
 {
   "name": "hexlet",
+
   "version": "1.0.0",
-  "type": "module",
   "description": "Мой первый проект на Хекслете",
   "main": "index.js",
   "scripts": {
@@ -16,11 +16,5 @@
   "bugs": {
     "url": "https://github.com/asfiks/hexlet-js/issues"
   },
-  "homepage": "https://github.com/asfiks/hexlet-js#readme",
-  "dependencies": {
-    "lodash": "^4.17.21"
-  },
-  "devDependencies": {
-    "prettier": "^2.8.1"
-  }
+  "homepage": "https://github.com/asfiks/hexlet-js#readme"
 }
